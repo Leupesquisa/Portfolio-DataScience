@@ -5,12 +5,22 @@ Welcome to my **Data Science portfolio**, created for learning purposes. Here, I
 🔒 Please note that all datasets used are for **demonstration purposes only**, ensuring privacy and ethical standards are upheld.
 
 # <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  /> Python Data Science 
-
-# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  /> Java Data Science 
+- **Customer Churn Prediction:**
 - **Data Preprocessing:**
 - **Data Analysis:**
 - **Visualization:**
 - **Neural Networks:**
+- **Machine Learning:**
+
+
+
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  /> Java Data Science 
+- **Credit Card Fraud Detection:**
+- **Data Preprocessing:**
+- **Data Analysis:**
+- **Visualization:**
+- **Neural Networks:**
+- **Machine Learning:**
 - **Machine Learning:**
 
 
