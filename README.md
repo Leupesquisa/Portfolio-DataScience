@@ -4,9 +4,13 @@ Welcome to my **Data Science portfolio**, created for learning purposes. Here, I
 
 🔒 Please note that all datasets used are for **demonstration purposes only**, ensuring privacy and ethical standards are upheld.
 
-# ☕ Java Data Science 
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  /> Python Data Science 
+
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  /> Java Data Science 
 - **Data Preprocessing:**
 - **Data Analysis:**
 - **Visualization:**
 - **Neural Networks:**
 - **Machine Learning:**
+
+
