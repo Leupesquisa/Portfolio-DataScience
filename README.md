@@ -22,7 +22,7 @@ Welcome to my **Data Science portfolio**, created for learning purposes. Here, I
 - **Machine Learning:**
 - **Credit Card Fraud Detection:**
 
-# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="20" alt="r logo"  /> R Data Science 
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="20" alt="r logo"  /> R Data Science 
 - **Data Preprocessing:**
 - **Data Analysis:**
 - **Visualization:**
